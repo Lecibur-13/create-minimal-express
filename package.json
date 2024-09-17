@@ -1,0 +1,15 @@
+{
+  "name": "create-minimal-express",
+  "version": "1.0.0",
+  "description": "Crea un proyecto minimal express",
+  "type": "module",
+  "author": "Rubicel Perez",
+  "license": "MIT",
+  "bin": {
+    "create-minimal-express": "./create-minimal-express.js"
+  },
+  "dependencies": {
+    "inquirer": "^10.2.2",
+    "simple-git": "^3.26.0"
+  }
+}
